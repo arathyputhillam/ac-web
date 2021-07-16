@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: Recent Popular Press
 subtitle:
 
 content:
@@ -19,9 +19,9 @@ content:
   count: 5
   # Filter on criteria
   filters:
-    author: ""
-    category: ""
-    tag: ""
+    author: "Arathy Puthillam"
+    category: "pop press"
+    tag: "pop press"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
@@ -37,5 +37,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 1
 ---

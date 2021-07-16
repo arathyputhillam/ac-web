@@ -32,8 +32,9 @@ experience:
         Responsibilities include:
         
         * Academic research
-        * Supervision and Mentoring
         * Research communication
+        * Supervision and Mentoring
+        * Project management
         
   - title: Contractual editor
     company: CACTUS Communication
