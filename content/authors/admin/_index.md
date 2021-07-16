@@ -47,4 +47,4 @@ title: Arathy Puthillam
 ---
 
 Arathy Puthillam is at the Department of Psychology at Monk Prayogshala, a not-for-profit research organization based in Mumbai in India. Her research interests lie at the intersection of social, moral, and political psychology. Particularly, she studies norms, ideology, and identity. In other words, she studies how our social groups affect us. 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Arathy_one_page_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/Arathy Puthillam-CVJuly21.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
