@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: dark
 day_night: true
 font: ''
 font_size: L
@@ -16,50 +16,39 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: 'twitter.com/WallflowerBlack'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+email: ar@monkprayogshala.in
+email: arathyputhillam@gmail.com
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: Follow Me
+    link: 'https://twitter.com/WallflowerBlack'
+  - icon: researchgate
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
+    name: ResearchGate
+    link: 'https://www.researchgate.net/profile/Arathy-Puthillam'
+  - icon: graduation-cap
     icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Google Scholar
+    link: 'https://scholar.google.co.in/citations?user=8cOaBCMAAAAJ&hl=en'
+  - icon: orcid
+    icon_pack: fa
+    name: ORCiD
+    link: 'https://orcid.org/0000-0003-2426-8362'
+  - icon: orcid
+    icon_pack: ai
+    name: OSF
+    link: 'https://osf.io/nm53b/'
 
 # Site header
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
@@ -157,4 +146,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true

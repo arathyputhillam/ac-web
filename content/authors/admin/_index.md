@@ -1,27 +1,24 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include social, moral, and political psychology. This includes identity, ideology, and norms.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: MA in Applied Psychology
+    institution: University of Mumbai
+    year: 2017
+  - course: BA, with a Major in Psychology 
+    (Other subjects: English Literature, Economics)
+    institution: St. Xavier's College (Autonomous), Mumbai
+    year: 2015
+email: "ar@monkprayogshala.in"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social Psychology
+- Moral Psychology
+- Political Psychology
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Monk Prayogshala, India
+  url: https://www.monkprayogshala.in/
+role: Senior Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +28,23 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/WallflowerBlack
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.in/citations?user=8cOaBCMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/arathyputhillam
+- icon: researchgate
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.researchgate.net/profile/Arathy-Puthillam
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/nm53b/
+
 superuser: true
-title: Jenny Sloane
+title: Arathy Puthillam
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+Arathy Puthillam is at the Department of Psychology at Monk Prayogshala, a not-for-profit research organization based in Mumbai in India. Her research interests lie at the intersection of social, moral, and political psychology. Particularly, she studies norms, ideology, and identity. In other words, she studies how our social groups affect us. 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
