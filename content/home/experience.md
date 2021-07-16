@@ -23,25 +23,24 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Research Assistant
-    company: Department of Psychology, Monk Prayogshala
-    company_url: 'www.monkprayogshala.in'
+    company: Monk Prayogshala
+    company_url: ''
     location: Mumbai, India
-    date_start: '2017'
+    date_start: '2017-07-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Academic research: Proposing research ideas and methods, IRB documentation, study material preparation, preregistration of hypotheses, conducting studies, data analysis, manuscript writing, responding to reviewer's comments
-        * Supervision: Supervised and mentored over six research assistants and interns, multiple participant coordinators, as well as content developers.
-        * Research communication: Published 4 peer-reviewed papers, multiple preprints, and 10 conference presentations
-        * Other communication: Over 20 popular press articles in avenues such as _Psychology Today_ and _FirstPost_
-        *Media coverage: 7 press coverage about topics like _Misinformation_ and _Indian women in science_
+        * Academic research
+        * Supervision and Mentoring
+        * Research communication
         
-  - title: Contractual (freelance) Editor 
-    company: CACTUS communication
+  - title: Contractual editor
+    company: CACTUS Communication
     location: Mumbai, India
-    date_start: '2018'
-    description: English editing for academic manuscripts (>650,000 words edited) in the areas of healthcare, psychology, social behaviour, public administration, applied economics, and political science.
+    date_start: '2018-01-01'
+    date_end: '2020-12-31'
+    description: Scientific manuscript editing for ESL authors in the fields of healthcare, psychology, public administration, applied economics, and political science.
 
 design:
   columns: '2'
