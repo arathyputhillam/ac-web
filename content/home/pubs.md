@@ -40,3 +40,18 @@ design:
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+
+
+1. **Puthillam, A.**, Parekh, A., & Kapoor, H. (2021). How do relationships to victims and perpetrators affect the advice to report rape in India? _Violence against Women_. [https://doi.org/10.1177/10778012211005565](https://doi.org/10.1177/10778012211005565)
+
+2. **Puthillam, A.**, Parekh, A., Karandikar, S., Kapoor, H. (2021). Gratitude blindness: How does the dark triad experiences gratitude? _Personality and Individual Differences_, 168, 110309. [https://doi.org/10.1016/j.paid.2020.110309](https://doi.org/10.1016/j.paid.2020.110309)
+
+3. **Puthillam, A.**, & Karandikar, S. (2020). Watching disgustedly? Game of Thrones and disgust sensitivity. _Psychological Reports_. [https://doi.org/10.1177/0033294120957245](https://doi.org/10.1177/0033294120957245)
+
+4. **Puthillam, A.**, Karandikar, S., & Kapoor, H. (2019). I see how you feel: How the dark triad recognizes emotions. _Current Psychology_, 1-8. [doi:10.1007/s12144-019-00359-x](doi:10.1007/s12144-019-00359-x)
+
+5. Debnath, A., Phansikar, M., **Puthillam, A.***, & Sengupta, P. (2016). Cross sectional analysis of gender atypical behaviours. _Social Sciences International Research Journal_ 2(1), 378-381.
+
+*Authors contributed equally to the work. Authorship order determined appear alphabetically
+
+
