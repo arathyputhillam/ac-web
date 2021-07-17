@@ -16,13 +16,13 @@ main:
   - name: Preprints
     url: '#preprints'
     weight: 40
-  - name: Conference Presentations
+  - name: Presentations
     url: '#conf'
     weight: 50
-  - name: Popular Press
+  - name: Essays
     url: '#pop'
     weight: 60
-  - name: Press Coverage
+  - name: Press
     url: '#ft'
     weight: 70
   - name: Contact
