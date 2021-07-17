@@ -2,7 +2,7 @@
 title: A list of published essays
 author: ''
 date: '2021-07-17'
-slug: a-list-of-published-essays
+slug: pop-press
 categories: []
 tags: []
 subtitle: ''
