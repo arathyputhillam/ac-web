@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Popular Press
-subtitle:
+title: Popular Press
+subtitle: A list of published essays
 
 content:
   # Page type to display. E.g. post, talk, publication...
