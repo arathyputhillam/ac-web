@@ -9,7 +9,7 @@ subtitle: 'A list of essays published in the popular press'
 summary: ''
 authors: []
 lastmod: '2021-07-18T00:56:45+05:30'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
