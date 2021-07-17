@@ -21,13 +21,6 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  # Filter on criteria
-  filters:
-    tag: ''
-    category: ''
-    publication_type: 'peer-reviewed'
-    author: ''
-    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -36,10 +29,6 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
 
 
 1. **Puthillam, A.**, Parekh, A., & Kapoor, H. (2021). How do relationships to victims and perpetrators affect the advice to report rape in India? _Violence against Women_. [https://doi.org/10.1177/10778012211005565](https://doi.org/10.1177/10778012211005565)
