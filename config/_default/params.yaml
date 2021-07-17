@@ -20,9 +20,13 @@ twitter: 'twitter.com/WallflowerBlack'
 
 # Contact (edit or remove options as required)
 
-email: ar@monkprayogshala.in
+
 email: arathyputhillam@gmail.com
 contact_links:
+  - icon: envelope
+    icon_pack: fas
+    name: ar@monkprayogshala.in
+    link: 'mailto:ar@monkprayogshala.in'
   - icon: twitter
     icon_pack: fab
     name: Follow Me
