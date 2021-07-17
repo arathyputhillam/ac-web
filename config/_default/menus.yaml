@@ -20,8 +20,11 @@ main:
     url: '#conf'
     weight: 50
   - name: Popular Press
-    url: '#posts'
+    url: '#pop'
     weight: 60
+  - name: Press Coverage
+    url: '#ft'
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 80

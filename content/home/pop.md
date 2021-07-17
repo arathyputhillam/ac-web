@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 80
 
 title: Popular Press
 subtitle: A list of published essays
