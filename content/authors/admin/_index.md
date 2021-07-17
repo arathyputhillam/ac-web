@@ -41,10 +41,16 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/nm53b/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2426-8362
 
 superuser: true
 title: Arathy Puthillam
 ---
 
 Arathy Puthillam is at the Department of Psychology at Monk Prayogshala, a not-for-profit research organization based in Mumbai in India. Her research interests lie at the intersection of social, moral, and political psychology. Particularly, she studies norms, ideology, and identity. In other words, she studies how our social groups affect us. 
+
+Her non-academic interests include reading books and making spreadsheets about them, and talking about musical theatre, Taylor Swift, and Ben Platt.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Arathy_one_page_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/Arathy Puthillam-CVJuly21.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.

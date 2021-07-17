@@ -27,7 +27,7 @@ feature:
 - description: 'Openness and transparency in science is important to me'
   icon: open-access
   icon_pack: ai
-  name: Open Access
+  name: Open Science
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"

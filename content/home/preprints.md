@@ -44,7 +44,6 @@ design:
 
 2. **Puthillam, A.** & Kapoor, H. (2021). How are you useful to me? The relationship between dark triad and perception of help in prosocial situations. [Link to preprint](http://osf.io/5tguf)
 
-
 3. **Puthillam, A.** (2020). Too WEIRD, Too Fast: Preprints about COVID-19 in the Psychological Sciences. [Link to preprint](http://osf.io/5w7du)
 
 4. **Puthillam, A.**, Karandikar, S., & Kapoor, H. (2019). Winner Takes All (the Gossip): Conversations in the reality show “Bigg Boss.” [Link to preprint](http://osf.io/8rvhe)
