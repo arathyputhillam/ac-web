@@ -10,17 +10,11 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Publications
-    url: '#pubs'
+  - name: Research Output
+    url: '#output'
     weight: 30
-  - name: Preprints
-    url: '#preprints'
-    weight: 40
-  - name: Presentations
-    url: '#conf'
-    weight: 50
   - name: Essays
-    url: '#pop'
+    url: '#popp'
     weight: 60
   - name: Press
     url: '#ft'

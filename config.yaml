@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Arathy Puthillam # Website name
 baseurl: 'https://arathyputhillam.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Arathy Puthillam ' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

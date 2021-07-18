@@ -40,6 +40,8 @@ design:
   view: 1
 ---
 
+Some of my work has also received some press coverage. Here is a list: 
+
 1. **Memes are to make you laugh; what if they spread disinformation?**
     
     Spoke to a reporter at _The Quint_ about memes and misinformation. 
