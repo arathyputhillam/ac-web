@@ -53,4 +53,4 @@ Arathy Puthillam is at the Department of Psychology at Monk Prayogshala, a not-f
 
 Her non-academic interests include reading books and making spreadsheets about them, and talking about musical theatre, Taylor Swift, and Ben Platt.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Arathy_one_page_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/Arathy Puthillam-CVJuly21.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Arathy_one_page_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/Arathy Puthillam CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
