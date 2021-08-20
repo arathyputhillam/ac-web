@@ -67,21 +67,21 @@ I know I shouldn't pick favourites, but here is a fun snippet of some of the pie
 <dd>My (and my colleague's) thoughts in this <i>BuzzFeed</i> <a href="https://www.facebook.com/watch/?v=441722426592139">video</a>. 
 </dd>
   
-<dt><b>I was obsessed with Ariana Grande's <i>Thank U Next</i></b></dt>
+<dt><b>Like everyone else, I used to really like  Ariana Grande's <i>Thank U Next</i> when it came out</b></dt>
 
 <dd>So wrote about what the song teaches us about self-love <a href="https://www.thinkpragati.com/housefull-home/housefull-ph/6514/her-name-is-ari/"> here </a>
     </dd>
   
-<dt><b>Anyone who knows me in real life knows how much I obsess about death and <i>Hamilton</i></b></dt>
+<dt><b>Anyone who knows me in real life knows how much I talk about death and <i>Hamilton</i></b></dt>
 
 <dd>So wrote a piece about death and Hamilton <a href = "https://www.thinkpragati.com/housefull-home/housefull-ph/6222/like-a-beat-without-a-melody/"> here </a>. 
 Can I just say "like a beat without a melody" is such a beautiful way to describe it? </dd>
   
 <dt><b>Impostor Phenomenon doesn't really go away, right?</b></dt>
  
-<dd> Turned my Master's project into a <a href = "https://www.livemint.com/Sundayapp/5k7ZxYoHPBz5XtPRbaKWbM/Impostor-Phenomenon-where-selfdoubt-rules-and-success-does.html"> piece </a> for _Mint on Sunday_.</dd>
+<dd> Turned my Master's project into a <a href = "https://www.livemint.com/Sundayapp/5k7ZxYoHPBz5XtPRbaKWbM/Impostor-Phenomenon-where-selfdoubt-rules-and-success-does.html"> piece </a> for <i>Mint on Sunday</i>.</dd>
   
   
 <dt><b>Like I said, I love reading and binge-watching shows</b></dt>
 
-<dd> So, wrote a piece about _why_ we might be drawn to imaginary worlds for _The Swaddle_. Read that <a href = "https://theswaddle.com/why-were-drawn-to-imaginary-worlds/"> here </a></dd>
+<dd> So, wrote a piece about <i>why</i> we might be drawn to imaginary worlds for <i>The Swaddle</i>. Read that <a href = "https://theswaddle.com/why-were-drawn-to-imaginary-worlds/"> here </a></dd>
