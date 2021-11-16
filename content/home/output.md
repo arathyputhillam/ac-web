@@ -43,7 +43,7 @@ design:
 
 So far, my research work has revolved around identity and person perception. This includes how our personality, ideology, and beliefs affect the way we assess other people. This has led to a few papers in peer-reviewed journals, a few conference presentations, as well as some working papers. 
 
-You can view a list here {{< staticref "uploads/Research Output.html" "newtab" >}}here{{< /staticref >}} or in my {{< staticref "uploads/Arathy Puthillam CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+You can view a list here {{< staticref "uploads/researchoutputlist.html" "newtab" >}}here{{< /staticref >}} or in my {{< staticref "uploads/Arathy Puthillam CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
 Some of my other research interests include identity-based rumours, gossip, and misinformation (e.g., do we spread more rumours about out outgroup's transgressions?), what causes us to change our norms (e.g., does moving from one country to another change our moral beliefs?), and how we view others who are horizontally (e.g., other sports teams) or vertically (e.g., other socioeconomic classes) different than us. 
 
