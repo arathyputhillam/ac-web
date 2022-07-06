@@ -1,5 +1,5 @@
 ---
-bio: My research interests include social, moral, and political psychology. This includes identity, ideology, and norms.
+bio: My research interests include social, moral, and political psychology. 
 education:
   courses:
   - course: MA in Applied Psychology
@@ -9,7 +9,7 @@ education:
     (Other subjects: English Literature, Economics)
     institution: St. Xavier's College (Autonomous), Mumbai
     year: 2015
-email: "ar@monkprayogshala.in"
+email: "aputhillam@ucsd.edu"
 highlight_name: false
 interests:
 - Social Psychology
@@ -28,7 +28,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/WallflowerBlack
+  link: https://twitter.com/arathyputhillam
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.in/citations?user=8cOaBCMAAAAJ&hl=en
@@ -49,8 +49,10 @@ superuser: true
 title: Arathy Puthillam
 ---
 
-Arathy Puthillam is at the Department of Psychology at Monk Prayogshala, a not-for-profit research organization based in Mumbai in India. Her research interests lie at the intersection of social, moral, and political psychology. Particularly, she studies norms, ideology, and identity. In other words, she studies how our social groups affect us. 
+Arathy Puthillam is an incoming PhD student at the Rady School of Management, University of California, San Diego. Her research interests lie at the intersections of social, moral, and political psychology. In other words, she studies how our social groups affect us.
 
-Her non-academic interests include reading books and making spreadsheets about them, and talking about musical theatre, Taylor Swift, and Ben Platt.
+Before this, she was at the Department of Psychology at Monk Prayogshala, a not-for-profit research organization based in Mumbai in India.  
+
+Her non-academic interests include reading books and making spreadsheets about them, and talking about musical theater and Taylor Swift.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Arathy_one_page_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/Arathy Puthillam CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
