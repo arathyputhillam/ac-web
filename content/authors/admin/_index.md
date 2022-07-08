@@ -2,6 +2,9 @@
 bio: My research interests include social, moral, and political psychology. 
 education:
   courses:
+  - course: PhD in Management
+    institution: Rady School of Management, University of San Diego
+    year: 2022-Present
   - course: MA in Applied Psychology
     institution: University of Mumbai
     year: 2017
@@ -16,9 +19,9 @@ interests:
 - Moral Psychology
 - Political Psychology
 organizations:
-- name: Monk Prayogshala, India
-  url: https://www.monkprayogshala.in/
-role: Senior Research Assistant
+- name: Rady School of Management, UCSD
+  url: https://rady.ucsd.edu/
+role: Incoming Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -55,4 +58,4 @@ Before this, she was at the Department of Psychology at Monk Prayogshala, a not-
 
 Her non-academic interests include reading books and making spreadsheets about them, and talking about musical theater and Taylor Swift.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Arathy_one_page_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/Arathy Puthillam CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Arathy Puthillam CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
