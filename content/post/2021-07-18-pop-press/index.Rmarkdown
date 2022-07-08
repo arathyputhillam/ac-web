@@ -1,14 +1,14 @@
 ---
 title: Popular Press
 author: ''
-date: '2021-07-18'
+date: '2022-07-08'
 slug: pop-press
 categories: []
 tags: []
 subtitle: 'A list of essays published in the popular press'
 summary: ''
 authors: []
-lastmod: '2021-07-18T00:56:45+05:30'
+lastmod: '2022-07-08T00:56:45+05:30'
 featured: yes
 image:
   caption: ''

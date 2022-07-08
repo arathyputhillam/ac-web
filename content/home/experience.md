@@ -22,12 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Student
+    company: Rady School of Management, University of California, San Diego
+    company_url: 'https://rady.ucsd.edu/'
+    location: La Jolla, California
+    date_start: '2022-09-01'
+    date_end: ''
+    description:
   - title: Senior Research Assistant
     company: Monk Prayogshala
-    company_url: ''
+    company_url: 'https://www.monkprayogshala.in/'
     location: Mumbai, India
     date_start: '2017-07-01'
-    date_end: ''
+    date_end: '2022-08-09'
     description: |2-
         Responsibilities include:
         
@@ -40,7 +47,7 @@ experience:
     company: CACTUS Communication
     location: Mumbai, India
     date_start: '2018-01-01'
-    date_end: '2020-12-31'
+    date_end: '2021-12-31'
     description: Scientific manuscript editing for ESL authors in the fields of healthcare, psychology, public administration, applied economics, and political science.
 
 design:

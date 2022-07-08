@@ -16,21 +16,21 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: 'twitter.com/WallflowerBlack'
+twitter: 'twitter.com/arathyputhillam'
 
 # Contact (edit or remove options as required)
 
 
-email: arathyputhillam@gmail.com
+email: aputhillam@ucsd.edu
 contact_links:
   - icon: envelope
     icon_pack: fas
-    name: ar@monkprayogshala.in
-    link: 'mailto:ar@monkprayogshala.in'
+    name: arathyputhillam@gmail.com
+    link: 'mailto:aputhillam@gmail.com'
   - icon: twitter
     icon_pack: fab
     name: Follow Me
-    link: 'https://twitter.com/WallflowerBlack'
+    link: 'https://twitter.com/arathyputhillam'
   
 # Site header
 
@@ -124,7 +124,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-KFD0J8S080'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
