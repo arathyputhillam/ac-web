@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 'I have over 5 years of experience using R'
+- description: 'I have over 6 years of experience using R'
   icon: r-project
   icon_pack: fab
   name: R
-- description: 'I have over 2 years of experience using Zotero'
+- description: 'I have over 3 years of experience using Zotero'
   icon: zotero
   icon_pack: ai
   name: Zotero
