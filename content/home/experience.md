@@ -25,6 +25,7 @@ experience:
   - title: PhD Student
     company: Rady School of Management, University of California, San Diego
     company_url: 'https://rady.ucsd.edu/'
+    company_logo: org-rsm
     location: La Jolla, California
     date_start: '2022-09-01'
     date_end: ''
@@ -32,11 +33,12 @@ experience:
   - title: Senior Research Assistant
     company: Monk Prayogshala
     company_url: 'https://www.monkprayogshala.in/'
+    company_logo: org-mp
     location: Mumbai, India
     date_start: '2017-07-01'
     date_end: '2022-08-09'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
         * Academic research
         * Research communication
@@ -44,7 +46,8 @@ experience:
         * Project management
         
   - title: Contractual editor
-    company: CACTUS Communication
+    company: CACTUS Communication (Editage)
+    company_logo: org-cc
     location: Mumbai, India
     date_start: '2018-01-01'
     date_end: '2021-12-31'
