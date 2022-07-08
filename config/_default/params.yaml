@@ -21,12 +21,11 @@ twitter: 'twitter.com/arathyputhillam'
 # Contact (edit or remove options as required)
 
 
-email: aputhillam@ucsd.edu
 contact_links:
   - icon: envelope
     icon_pack: fas
-    name: arathyputhillam@gmail.com
-    link: 'mailto:aputhillam@gmail.com'
+    name: aputhillam@ucsd.edu
+    link: 'mailto:aputhillam@ucsd.edu'
   - icon: twitter
     icon_pack: fab
     name: Follow Me
