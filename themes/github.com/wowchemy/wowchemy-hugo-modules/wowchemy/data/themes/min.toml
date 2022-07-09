@@ -1,8 +1,7 @@
 # Theme metadata
 name = "min"
 
-# Is theme light or dark?
-light = true
+light= true
 
 # Primary
 primary = "#9dd9d2"

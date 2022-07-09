@@ -6,7 +6,7 @@
 # Appearance
 
 theme: min
-day_night: true
+day_night: false
 font: 'PT Serif'
 font_size: L
 
