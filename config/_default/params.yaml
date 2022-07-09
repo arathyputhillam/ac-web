@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: dark
+theme: mr_robot
 day_night: true
-font: ''
+font: 'PT Serif'
 font_size: L
 
 # SEO
