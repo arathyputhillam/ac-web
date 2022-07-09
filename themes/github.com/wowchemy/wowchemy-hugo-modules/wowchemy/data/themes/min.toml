@@ -1,0 +1,26 @@
+# Theme metadata
+name = "min"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#9dd9d2"
+
+# Menu
+menu_primary = "#ab81cd"
+menu_text = "#191f4b"
+menu_text_active = "#d60b52"
+menu_title = "#191f4b"
+
+# Home sections
+home_section_odd = "#f1e3f3"
+home_section_even = "#dacff2"
+
+link = "#dd0426"
+link_hover = "#dd0426"
+
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"

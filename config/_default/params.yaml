@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: mr_robot
+theme: min
 day_night: true
 font: 'PT Serif'
 font_size: L

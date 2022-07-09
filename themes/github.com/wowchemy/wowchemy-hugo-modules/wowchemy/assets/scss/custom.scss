@@ -1,1 +1,42 @@
 // Override this file to add your own SCSS styling.
+ul.ul-edu li .description p.institution {
+    font-size: 0.75rem;
+    color: black;
+}
+
+.portrait-title h2 {
+    font-size: 3.5em;
+    font-weight: 300;
+    color: #000;
+    margin: 20px 0 10px 0;
+}
+
+.portrait-title h3 {
+    font-size: 1rem;
+    font-weight: 300;
+    color: black;
+    margin: 0 0 10px 0;
+}
+
+element.style {
+}
+.experience .m-2 .border.exp-fill {
+    background-color: #d60b52 !important;
+}
+.experience .m-2 .border, .experience .col.border-right {
+    border-color: #d60b52 !important;
+}
+
+
+element.style {
+}
+.featurette-icon {
+    display: block;
+    width: 100%;
+    color: #662483;
+    font-size: 3rem;
+    text-align: center;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
