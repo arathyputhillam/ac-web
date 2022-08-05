@@ -40,3 +40,42 @@ element.style {
 *, *::before, *::after {
     box-sizing: border-box;
 }
+
+body {
+    margin-top: 50px;
+}
+body {
+    font-family: inherit;
+    font-size: 1rem;
+    line-height: inherit;
+    color: inherit;
+    background-color: #fdfae6;
+    padding-top: 0;
+    counter-reset: captions;
+    overflow-x: hidden;
+    margin-top: 70px;
+}
+.featurette-icon {
+    display: block;
+    width: 100%;
+    color: #4e8698;
+    font-size: 3rem;
+    text-align: center;
+}
+.experience .m-2 .border, .experience .col.border-right {
+    border-color: #4e8698 !important;
+}
+
+.experience .m-2 .border.exp-fill {
+    background-color: #175d69 !important;
+}
+
+.wg-contact .fa-li {
+    position: absolute;
+    left: -3.14285714rem;
+    width: 2rem;
+    top: 0.14285714em;
+    text-align: center;
+    color: #175d69;
+}
+

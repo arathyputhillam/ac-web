@@ -19,7 +19,7 @@ interests:
 - Moral Psychology
 - Political Psychology
 organizations:
-- name: Rady School of Management, UCSD
+- name: Rady School of Management, University of California, San Diego
   url: https://rady.ucsd.edu/
 role: Incoming Graduate Student
 social:
@@ -58,4 +58,4 @@ Before this, she was at the Department of Psychology at Monk Prayogshala, a not-
 
 Her non-academic interests include reading books and making spreadsheets about them, and talking about musical theater and Taylor Swift.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Arathy Puthillam CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Arathy Puthillam CV.pdf" "newtab" >}}<u><b>curriculum vitae</u></b>{{< /staticref >}}.

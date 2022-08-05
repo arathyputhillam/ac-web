@@ -4,22 +4,22 @@ name = "min"
 light= true
 
 # Primary
-primary = "#9dd9d2"
+primary = "black"
 
 # Menu
-menu_primary = "#ab81cd"
-menu_text = "#191f4b"
-menu_text_active = "#d60b52"
-menu_title = "#191f4b"
+menu_primary = "#6C7654"
+menu_text = "#FDF4D0"
+menu_text_active = "#293633"
+menu_title = "#FDF4D0"
 
 # Home sections
-home_section_odd = "#f1e3f3"
-home_section_even = "#dacff2"
+home_section_odd = "#fdfae6"
+home_section_even = "#fdf4d0"
 
-link = "#dd0426"
-link_hover = "#dd0426"
+link = "#009844"
+link_hover = "#755442"
 
 
 [dark]
-  link = "#bbdefb"
+  link = "#407F8A"
   link_hover = "#bbdefb"

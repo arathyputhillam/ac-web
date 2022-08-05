@@ -7,16 +7,16 @@ main:
     url: '#experience'
     weight: 20
   - name: Research Output
-    url: '#output'
+    url: "/resout/"
     weight: 30
   - name: Essays
-    url: '#popp'
+    url: '/essays/'
     weight: 60
   - name: Press
-    url: '#ft'
+    url: '/press/'
     weight: 70
   - name: Resources
-    url: '#resources'
+    url: '/resources/'
     weight: 80
   - name: Contact
     url: '#contact'
