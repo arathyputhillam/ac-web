@@ -12,7 +12,7 @@ education:
     (Other subjects: English Literature, Economics)
     institution: St. Xavier's College (Autonomous), Mumbai
     year: 2015
-email: "aputhillam@ucsd.edu"
+email: "Arathy.Puthillam@rady.ucsd.edu"
 highlight_name: false
 interests:
 - Social Psychology
@@ -52,10 +52,10 @@ superuser: true
 title: Arathy Puthillam
 ---
 
-Arathy Puthillam is an incoming PhD student at the Rady School of Management, University of California, San Diego. Her research interests lie at the intersections of social, moral, and political psychology. In other words, she studies how our social groups affect us.
+Arathy Puthillam is a PhD student at the Rady School of Management, University of California, San Diego. Her research interests lie at the intersections of social, moral, and political psychology. In other words, she studies how our social groups affect us.
 
 Before this, she was at the Department of Psychology at Monk Prayogshala, a not-for-profit research organization based in Mumbai in India.  
 
-Her non-academic interests include reading books and making spreadsheets about them, and talking about musical theater and Taylor Swift.
+Her non-academic interests include reading books and making spreadsheets about them, and talking about Taylor Swift and musical theater.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Arathy Puthillam CV.pdf" "newtab" >}}<u><b>curriculum vitae</u></b>{{< /staticref >}}.

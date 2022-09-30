@@ -24,11 +24,11 @@ twitter: 'twitter.com/arathyputhillam'
 contact_links:
   - icon: envelope
     icon_pack: fas
-    name: aputhillam@ucsd.edu
-    link: 'mailto:aputhillam@ucsd.edu'
+    name: Arathy.Puthillam@rady.ucsd.edu
+    link: 'mailto:Arathy.Puthillam@rady.ucsd.edu'
   - icon: twitter
     icon_pack: fab
-    name: Follow Me
+    name: Follow me on Twitter
     link: 'https://twitter.com/arathyputhillam'
   
 # Site header
