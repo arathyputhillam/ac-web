@@ -21,11 +21,11 @@ interests:
 organizations:
 - name: Rady School of Management, University of California, San Diego
   url: https://rady.ucsd.edu/
-role: Incoming Graduate Student
+role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:Arathy.Puthillam@rady.ucsd.edu
 - display:
     header: true
   icon: twitter
@@ -34,7 +34,7 @@ social:
   link: https://twitter.com/arathyputhillam
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.in/citations?user=8cOaBCMAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=Qxn3cmoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/arathyputhillam
