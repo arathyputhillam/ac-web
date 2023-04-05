@@ -56,6 +56,6 @@ Arathy Puthillam is a PhD student at the Rady School of Management, University o
 
 Before this, she was at the Department of Psychology at Monk Prayogshala, a not-for-profit research organization based in Mumbai in India.  
 
-Her non-academic interests include reading books and making spreadsheets about them, and talking about Taylor Swift and musical theater.
+Her non-academic interests include reading books and talking about Taylor Swift.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Arathy Puthillam CV.pdf" "newtab" >}}<u><b>curriculum vitae</u></b>{{< /staticref >}}.
