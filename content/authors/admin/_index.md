@@ -28,10 +28,6 @@ social:
   link: mailto:Arathy.Puthillam@rady.ucsd.edu
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/arathyputhillam
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Qxn3cmoAAAAJ&hl=en
@@ -52,10 +48,9 @@ superuser: true
 title: Arathy Puthillam
 ---
 
-Arathy Puthillam is a PhD student at the Rady School of Management, University of California, San Diego. Her research interests lie at the intersections of social, moral, and political psychology. In other words, she studies how our social groups affect us.
+I am a PhD student at the Rady School of Management, University of California, San Diego. My research interests lie at the intersections of social, moral, and political psychology. 
 
-Before this, she was at the Department of Psychology at Monk Prayogshala, a not-for-profit research organization based in Mumbai in India.  
+Before this, I was at the Department of Psychology at Monk Prayogshala, a not-for-profit research organization based in Mumbai in India.  
 
-Her non-academic interests include reading books and talking about Taylor Swift.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Arathy Puthillam CV.pdf" "newtab" >}}<u><b>curriculum vitae</u></b>{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://ucsdcloud-my.sharepoint.com/:b:/g/personal/aputhillam_ucsd_edu/ER8fxwjHt0VLnfVlEVrQ-88BTow_8mt1xjXfoInIygNHvQ?e=smMvah" "newtab" >}}<u><b>curriculum vitae</u></b>{{< /staticref >}}.

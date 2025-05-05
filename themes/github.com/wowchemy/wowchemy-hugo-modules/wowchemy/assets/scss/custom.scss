@@ -1,17 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+
 // Override this file to add your own SCSS styling.
 ul.ul-edu li .description p.institution {
+    font-family: Poppins;
     font-size: 0.75rem;
     color: black;
 }
 
-.portrait-title h2 {
+.portrait-title h1 {
+    font-family: Poppins;
     font-size: 3.5em;
     font-weight: 300;
     color: #000;
     margin: 20px 0 10px 0;
 }
 
+.portrait-title h2 {
+    font-family: Poppins;
+    font-size: 2.5em;
+    font-weight: 300;
+    color: #000;
+    margin: 20px 0 10px 0;
+}
+
 .portrait-title h3 {
+    font-family: Poppins;
     font-size: 1rem;
     font-weight: 300;
     color: black;
@@ -44,12 +58,18 @@ element.style {
 body {
     margin-top: 50px;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Poppins;
+}
+
+
 body {
-    font-family: inherit;
+    font-family: Poppins;
     font-size: 1rem;
     line-height: inherit;
     color: inherit;
-    background-color: #d8f3dc;
+    background-color: #fcfbf9;
     padding-top: 0;
     counter-reset: captions;
     overflow-x: hidden;
@@ -58,16 +78,19 @@ body {
 .featurette-icon {
     display: block;
     width: 100%;
+    background-color: #fcfbf9;
     color: #1b4332;
     font-size: 3rem;
     text-align: center;
 }
+
+
 .experience .m-2 .border, .experience .col.border-right {
-    border-color: #4e8698 !important;
+    border-color: #6d5343 !important;
 }
 
 .experience .m-2 .border.exp-fill {
-    background-color: #175d69 !important;
+    background-color: #6d5343 !important;
 }
 
 .wg-contact .fa-li {
@@ -83,6 +106,6 @@ blockquote {
     padding: 0.5rem 1rem;
     margin: 0.8rem 0;
     color: black;
-    background: #8ea27c;
+    background: #fcf;
     border-left: 0.25rem solid #e5e5e5;
 }

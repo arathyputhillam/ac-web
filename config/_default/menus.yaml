@@ -6,10 +6,16 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Research Output
-    url: "/resout/"
+  - name: Publications
+    url: "/publication/"
     weight: 30
-  - name: Essays
+  - name: Conferences
+    url: "/conf/"
+    weight: 40
+  - name: Working Papers
+    url: "/working/"
+    weight: 50
+  - name: Published Essays
     url: '/essays/'
     weight: 60
   - name: Press

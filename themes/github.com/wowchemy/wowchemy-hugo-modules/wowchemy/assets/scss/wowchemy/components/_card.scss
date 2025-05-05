@@ -2,11 +2,12 @@
  *  Card component
  **************************************************/
 
+
 .card-simple {
-  background: #fff;
+  background: #f4eded;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
-  border: 1px solid rgba(0, 0, 0, 0.09);
-  border-radius: 3px;
+  border: 1.5px solid rgba(0, 0, 0, 0.09);
+  border-radius: 15px;
   margin-top: 20px;
   padding: 15px 20px 15px 20px;
 }
@@ -32,7 +33,7 @@ a.summary-link {
 }
 
 .card {
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
   overflow: hidden;
   text-overflow: ellipsis;
   background: #fff;
@@ -116,7 +117,7 @@ a.summary-link {
 }
 
 .card:hover .card-image.hover-overlay::before {
-  opacity: 0.8;
+  opacity: 1;
 }
 
 .card:hover .card-image.hover-overlay::after {

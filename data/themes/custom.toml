@@ -3,7 +3,7 @@ name = "custom"
 
 [light]
   # Primary
-  primary = "#a3b18a"
+  primary = "#f2efe4"
 
   # Menu
   menu_primary = "#fff"
@@ -17,7 +17,7 @@ name = "custom"
 
 [dark]
   # Primary
-  primary = "#bbdefb"
+  primary = "#f2efe4"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
