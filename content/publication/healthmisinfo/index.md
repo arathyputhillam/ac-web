@@ -10,7 +10,7 @@ image:
   #focal_point: ""
   #preview_only: false
 projects: []
-publication: '*Crises, Creativity and Innovation*'
+publication: '*Asian Journal of Social Psychology*'
 publication_short: ""
 publication_types:
 - "2"

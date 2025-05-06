@@ -10,7 +10,7 @@ image:
   #focal_point: ""
   #preview_only: false
 projects: []
-publication: '*Scientific Data*'
+publication: '*Collabra: Psychology*'
 publication_short: ""
 publication_types:
 - "2"
