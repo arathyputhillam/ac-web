@@ -26,8 +26,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:Arathy.Puthillam@rady.ucsd.edu
-- display:
-    header: true
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Qxn3cmoAAAAJ&hl=en
@@ -48,9 +46,9 @@ superuser: true
 title: Arathy Puthillam
 ---
 
-I am a PhD student at the Rady School of Management, University of California, San Diego. My research interests lie at the intersections of social, moral, and political psychology. 
+I am a third-year Ph.D. student at the Rady School of Management, UC San Diego. My research interests lie at the intersections of social, moral, and political psychology. Specifically, I draw on social psychology to investigate interpersonal and institutional harm and wrongdoing. My work further explores moral judgements and social groups in the Indian context. In addition, I have an interest in meta-science- specifically in internationalizing psychology to better understand our social worlds. 
 
-Before this, I was at the Department of Psychology at Monk Prayogshala, a not-for-profit research organization based in Mumbai in India.  
+I hold an M.A. in Applied Psychology from the University of Mumbai and a B.A. in Psychology from St. Xavier’s College (Autonomous), Mumbai. Prior to graduate school, I worked at Monk Prayogshala, a not-for-profit research organization in India, where I developed measures of political ideology and studied the dark triad personality traits.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://ucsdcloud-my.sharepoint.com/:b:/g/personal/aputhillam_ucsd_edu/ER8fxwjHt0VLnfVlEVrQ-88BTow_8mt1xjXfoInIygNHvQ?e=smMvah" "newtab" >}}<u><b>curriculum vitae</u></b>{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can access my CV here {{< staticref "https://ucsdcloud-my.sharepoint.com/:b:/g/personal/aputhillam_ucsd_edu/ER8fxwjHt0VLnfVlEVrQ-88BTow_8mt1xjXfoInIygNHvQ?e=smMvah" "newtab" >}}<u><b>curriculum vitae</u></b>{{< /staticref >}} here and my <u><b> [Google Scholar](https://scholar.google.com/citations?user=Qxn3cmoAAAAJ&hl=en)</u></b> here.
