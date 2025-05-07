@@ -13,7 +13,7 @@ projects: []
 publication: '*Crises, Creativity and Innovation*'
 publication_short: ""
 publication_types:
-- "2"
+- "6"
 publishDate: "2024-10-02T00:00:00Z"
 #slides: example
 summary: This chapter explores the intersection of dark creativity and misinformation, particularly conspiratorial misinformation.
