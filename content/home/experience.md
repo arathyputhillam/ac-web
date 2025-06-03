@@ -45,7 +45,7 @@ experience:
         * Supervision and Mentoring
         * Project management
         
-  - title: Contractual editor
+  - title: Freelance contractual editor
     company: CACTUS Communication (Editage)
     company_logo: org-cc
     location: Mumbai, India

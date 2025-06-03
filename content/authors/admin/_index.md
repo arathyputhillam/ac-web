@@ -9,7 +9,6 @@ education:
     institution: University of Mumbai
     year: 2017
   - course: BA, with a Major in Psychology 
-    (Other subjects: English Literature, Economics)
     institution: St. Xavier's College (Autonomous), Mumbai
     year: 2015
 email: "Arathy.Puthillam@rady.ucsd.edu"
