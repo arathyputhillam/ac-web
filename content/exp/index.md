@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD Student
+  - title: PhD Candidate
     company: Rady School of Management, University of California, San Diego
     company_url: 'https://rady.ucsd.edu/'
     company_logo: org-rsm

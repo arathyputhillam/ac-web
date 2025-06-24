@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: Rady School of Management, University of California, San Diego
   url: https://rady.ucsd.edu/
-role: Graduate Student
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
