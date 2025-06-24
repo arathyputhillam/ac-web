@@ -47,7 +47,7 @@ title: Arathy Puthillam
 
 Hello, and welcome to my website! 
 
-I am a third-year Ph.D. student at the Rady School of Management, UC San Diego. My research interests lie at the intersections of social, moral, and political psychology. Specifically, I draw on methods and theories from social and moral psychology to investigate interpersonal and institutional harm and wrongdoing. My work further explores moral judgements and social groups in the Indian context. In addition, I have an interest in meta-science- specifically in internationalizing psychology to better understand our social worlds. 
+I am a Ph.D. candidate at the Rady School of Management, UC San Diego. My research interests lie at the intersections of social, moral, and political psychology. Specifically, I draw on methods and theories from social and moral psychology to investigate interpersonal and institutional harm and wrongdoing. My work further explores moral judgements and social groups in the Indian context. In addition, I have an interest in meta-science- specifically in internationalizing psychology to better understand our social worlds. 
 
 I hold an M.A. in Applied Psychology from the University of Mumbai and a B.A. in Psychology from St. Xavier’s College (Autonomous), Mumbai. Prior to graduate school, I worked at Monk Prayogshala, a not-for-profit research organization in India, where I developed measures of political ideology and studied the dark triad personality traits.
 
