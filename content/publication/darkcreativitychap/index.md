@@ -1,29 +1,30 @@
 ---
-abstract: The field of psychology has rapidly transformed its open science practices in recent years. Yet there has been limited progress in integrating principles of diversity, equity and inclusion. In this Perspective, we raise the spectre of Questionable Generalisability Practices and the issue of MASKing (Making Assumptions based on Skewed Knowledge), calling for more responsible practices in generalising study findings and co-authorship to promote global equity in knowledge production. To drive change, researchers must target all four key components of the research process-  design, reporting, generalisation, and evaluation. Additionally, macro-level geopolitical factors must be considered to move towards a robust behavioural science that is truly inclusive, representing the voices and experiences of the majority world (i.e., low-and-middle-income countries).
+abstract: The checkered history of false knowledge, deliberate (disinformation) or otherwise (misinformation), has been long and varied, ranging from propaganda to memes. In recent times, the crisis of misinformation has been amplified owing to multiple agents on social media, usually comprising user-driven platforms where unchecked “facts” can be posted. This chapter explores the intersection of dark creativity and misinformation, particularly conspiratorial misinformation. Dark creativity refers to the use of ideational processes to meet less desirable (and even harmful) goals. Recent research has also reconceptualized conspiracies as creative narratives, and therefore, we propose features common to creative and conspiratorial thinking. We also discuss features associated with individuals who may be more susceptible to believing and spreading misinformation, as well as their creative characteristics. The chapter also proposes ways to emerge from the crisis, harnessing critical thinking skills that can assist in debunking or pre-bunking misinformation.
 #authors:
 #- admin
-date: "2025-01-29T00:00:00Z"
-doi: "https://doi.org/10.1038/s44271-024-00179-1"
+date: "2024-10-02T00:00:00Z"
+doi: "https://doi.org/10.1007/978-3-031-61782-9_9"
 featured: true
 image:
  #caption: 'Image credit: [**Authors**](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44271-024-00179-1/MediaObjects/44271_2024_179_Fig1_HTML.png?as=webp)'
   #focal_point: ""
   #preview_only: false
 projects: []
-publication: '*Communications Psychology*'
+publication: '*Crises, Creativity and Innovation*'
 publication_short: ""
 publication_types:
-- "2"
-publishDate: "2025-01-29T00:00:00Z"
+- "6"
+publishDate: "2024-10-02T00:00:00Z"
 #slides: example
-summary: In this paper we argue that there are a few potential threats to a diverse open science, which leads to making assumptions based on skewed knowledge (MASKing), distorting research conclusions and undermining the validity of research.
+summary: This chapter explores the intersection of dark creativity and misinformation, particularly conspiratorial misinformation.
 tags:
-- Journal Articles
-- Metascience
-title: A manifesto for a globally diverse, equitable, and inclusive open science
+- Book Chapter
+- Dark Creativity
+- Misinformation and conspiracies
+title: The Crisis of Misinformation and Dark Creativity
 url_code: ""
 url_dataset: ""
-url_pdf: "https://www.nature.com/articles/s44271-024-00179-1"
+#url_pdf: "https://www.nature.com/articles/s44271-024-00179-1"
 url_poster: ""
 url_project: ""
 url_slides: ""
