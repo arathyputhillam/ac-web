@@ -43,6 +43,7 @@ social:
 
 superuser: true
 title: Arathy Puthillam
+avatar: "avatar.jpg"
 ---
 
 Hello, and welcome to my website! 
