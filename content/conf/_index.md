@@ -3,9 +3,11 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Conference Presentations and Posters
+title: Conference Presentations, Posters, and Invited Talks
 view: 4
 ---
+
+# Posters and Presentations
 
 ## 2025
 
@@ -77,3 +79,25 @@ Portland, OR.
 * Debnath, A., Phansikar, M., **Puthillam, A.**[^1], & Sengupta, P. (2016, March). Cross Sectional Analysis of Gender Atypical Behaviours. Papers presented at the _International Conference on Womens' Studies and Social Sciences_, Goa, India
 
  [^1]: Authors contributed equally to this work. Authorship order determined appear alphabetically
+ 
+ # Invited Talks
+ 
+ * **2026** 
+*International Association for Cross Cultural Psychology: Decolonizing Cross-
+Cultural Psychology Webinar Series.* 
+Talk: Overcoming Structural Barriers: Funding, Publishing, Access.
+
+* **2022**
+*International Moral Psychology Seminar Series.*
+ECR Databliz: You are what you eat: Food-related disgust and ideology in India.
+
+* **2021** 
+*New Delhi Behavioral Network.* 
+Talk: Political ideology in India (with Dr. Hansika Kapoor).
+
+* **2021**
+*COVID-19 Research Network Conference.* 
+Showcase: Behavioral science research related to COVID-19 in India (with Dr. Hansika Kapoor).
+
+* **2017** St. Xaviers College (Autonomous), Mumbai. Talk: Professional Development
+Talk
