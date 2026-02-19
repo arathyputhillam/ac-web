@@ -53,4 +53,4 @@ I am a Ph.D. candidate at the Rady School of Management, UC San Diego. My resear
 I hold an M.A. in Applied Psychology from the University of Mumbai and a B.A. in Psychology from St. Xavier’s College (Autonomous), Mumbai. Prior to graduate school, I worked at Monk Prayogshala, a not-for-profit research organization in India, where I developed measures of political ideology and studied the dark triad personality traits.
 
 
-{{< icon name="download" pack="fas" >}} You can access my {{< staticref "https://ucsdcloud-my.sharepoint.com/:b:/r/personal/aputhillam_ucsd_edu/Documents/cv/Arathy_CV%20(6).pdf?csf=1&web=1&e=lffvdj" "newtab" >}}<u><b>curriculum vitae</u></b>{{< /staticref >}} (CV) here and my <u><b> [Google Scholar](https://scholar.google.com/citations?user=Qxn3cmoAAAAJ&hl=en)</u></b> here.
+{{< icon name="download" pack="fas" >}} You can access my {{< staticref "https://ucsdcloud-my.sharepoint.com/:b:/r/personal/aputhillam_ucsd_edu/Documents/cv/Arathy_CV%20(6).pdf?csf=1&web=1&e=lffvdj" >}}<u><b>curriculum vitae</u></b>{{< /staticref >}} (CV) here and my <u><b> [Google Scholar](https://scholar.google.com/citations?user=Qxn3cmoAAAAJ&hl=en)</u></b> here.
