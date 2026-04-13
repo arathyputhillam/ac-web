@@ -8,6 +8,13 @@ view: 4
 ---
 
 # Posters and Presentations
+## 2026
+* **Puthillam, A**. & Rai, T. (2026, June). Caste, Personhood, and Moral Decision-Making. [15-minute
+Talk]. (Accepted). Society for the Psychological Study of Social Issues Conference,
+New Orleans, LA.
+* **Puthillam, A**. & Rai, T. (2026, February). Caste, Nationalism, and Vegetarianism Preference in India. [Talk].
+Society of Personality and Social Psychology, Chicago, IL.
+
 
 ## 2025
 
